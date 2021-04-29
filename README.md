@@ -12,3 +12,4 @@ Git de el proyecto final de la unidad 2 de Daniela Diaz
 * CSS
 * JavaScripT
 
+puedas mirar la pagina en el link: file:/C:/Users/USUARIO/Desktop/ProyectoFinalUnidad2/index.html
